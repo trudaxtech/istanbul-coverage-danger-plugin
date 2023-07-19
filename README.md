@@ -1,10 +1,10 @@
 # istanbul-coverage-danger-plugin
 
-[![Build Status](https://travis-ci.org/trudaxtech/istanbul-coverage-danger-plugin.svg?branch=master)](https://travis-ci.org/darcy-rayner/danger-plugin-istanbul-coverage)
 [![npm version](https://badge.fury.io/js/istanbul-coverage-danger-plugin.svg)](https://badge.fury.io/js/danger-plugin-istanbul-coverage)
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) [![Greenkeeper badge](https://badges.greenkeeper.io/trudaxtech/istanbul-coverage-danger-plugin.svg)](https://greenkeeper.io/)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 > Danger.js plugin for monitoring code coverage on changed files.
+> This is a fork from the original [danger-plugin-istanbul-coverage](https://github.com/darcy-rayner/danger-plugin-istanbul-coverage)
 
 <p align="center">
   <img src="example.png" ></img>
